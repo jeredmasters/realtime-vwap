@@ -26,8 +26,11 @@
   "dependencies": {
     "@foal/core": "^2.0.0",
     "@foal/typeorm": "^2.0.0",
-    "source-map-support": "~0.5.19",
+    "axios": "^0.27.2",
     "better-sqlite3": "~7.5.0",
+    "jwt-simple": "^0.5.6",
+    "liquid-tap": "^0.3.6",
+    "source-map-support": "~0.5.19",
     "typeorm": "0.2.26"
   },
   "devDependencies": {
